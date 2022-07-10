@@ -1,0 +1,56 @@
+body {
+    background-color: rgb(241, 223, 217);
+}
+.topnav {
+    background-color: rgb(65, 110, 150);
+    
+}
+.div1 {
+    color: ghostwhite;
+}
+#search {
+    color: rgb(220, 31, 119)
+    
+}
+#elctronic{
+    width: 20px;
+    border: none;
+    scroll-behavior: auto;
+    cursor: pointer;
+}
+
+#mobile {
+    width: 20px;
+    border: none;
+    cursor: pointer;
+}
+
+#fashion {
+    width: 20px;
+    border: none;
+    cursor: pointer;
+}
+
+#media {
+    width: 25px;
+    border: none;
+}
+
+#s1 input[type=text] {
+    float: inline-end;
+}
+
+#s3 {
+    position: absolute;
+    top: 20px;
+    right: 30px;
+}
+
+#s4 {
+    position: absolute;
+    top: 45px;
+    right: 10px;
+}
+
+
+
